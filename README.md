@@ -1,4 +1,3 @@
 # devops-netology
-my first repository
-Hello, worldls -lha!
-Second line
+My first repository
+Testing tags!:)
